@@ -87,19 +87,15 @@
               <div class="row text-center services">
                 <div class="col-md-3"> <span class="fa-stack fa-4x"> <i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-html5 fa-stack-1x services-icon"></i> </span>
                   <h4 class="service-heading">Web Development</h4>
-                  <!-- <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p> -->
                 </div>
                 <div class="col-md-3"> <span class="fa-stack fa-4x"> <i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-github fa-stack-1x services-icon"></i> </span>
                   <h4 class="service-heading">github</h4>
-                  <!-- <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p> -->
                 </div>
                 <div class="col-md-3"> <span class="fa-stack fa-4x"> <i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-tablet fa-stack-1x services-icon"></i> </span>
                   <h4 class="service-heading">Responsive Web Design</h4>
-                  <!-- <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p> -->
                 </div>
                 <div class="col-md-3"> <span class="fa-stack fa-4x"> <i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-android fa-stack-1x services-icon"></i> </span>
                   <h4 class="service-heading">Android</h4>
-                  <!-- <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p> -->
                 </div>
               </div>
             </div>
@@ -129,53 +125,23 @@
                   <div class="portfolio-hover">
                     <div class="portfolio-hover-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
                   </div>
-                  <img src="img/portfolio/portfolio2.png" class="img-responsive" alt=""> </a>
+                  <img src="img/portfolio/wordpress.png" class="img-responsive" alt=""> </a>
                   <div class="portfolio-caption">
-                    <h4>Claritas est etiam</h4>
-                    <p class="text-muted">Donec quam felis, ultricies nec</p>
+                    <h4>Wordpress</h4>
+                    <p class="text-muted">Strona wykonana w Wordpressie</p>
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item"> <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
                   <div class="portfolio-hover">
                     <div class="portfolio-hover-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
                   </div>
-                  <img src="img/portfolio/portfolio3.png" class="img-responsive" alt=""> </a>
+                  <img src="img/portfolio/webowe.png" class="img-responsive" alt="Aplikacje webowe"> </a>
                   <div class="portfolio-caption">
-                    <h4>Mirum est notare</h4>
-                    <p class="text-muted">Duis autem vel eum iriure dolor</p>
+                    <h4>Aplikacje webowe</h4>
+                    <p class="text-muted">Na tej podstronie znajdują się wykonane przeze mnie proste aplikacje</p>
                   </div>
                 </div>
-                <div class="col-md-4 col-sm-6 portfolio-item"> <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
-                  <div class="portfolio-hover">
-                    <div class="portfolio-hover-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
-                  </div>
-                  <img src="img/portfolio/portfolio4.png" class="img-responsive" alt=""> </a>
-                  <div class="portfolio-caption">
-                    <h4>Facilisis at vero eros et</h4>
-                    <p class="text-muted">Eodem modo typi qui nunc</p>
-                  </div>
-                </div>
-                <div class="col-md-4 col-sm-6 portfolio-item"> <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
-                  <div class="portfolio-hover">
-                    <div class="portfolio-hover-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
-                  </div>
-                  <img src="img/portfolio/portfolio5.png" class="img-responsive" alt=""> </a>
-                  <div class="portfolio-caption">
-                    <h4>Quam nunc putamus</h4>
-                    <p class="text-muted">Duis autem vel eum iriure dolor</p>
-                  </div>
-                </div>
-                <div class="col-md-4 col-sm-6 portfolio-item"> <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
-                  <div class="portfolio-hover">
-                    <div class="portfolio-hover-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
-                  </div>
-                  <img src="img/portfolio/portfolio6.png" class="img-responsive" alt=""> </a>
-                  <div class="portfolio-caption">
-                    <h4>Fiant sollemnes in futurum</h4>
-                    <p class="text-muted">Investigationes demonstraverunt lectores</p>
-                  </div>
-                </div>
-              </div>
+                             </div>
             </div>
           </section>
 
@@ -280,7 +246,7 @@
                         <!-- Project Details Go Here -->
                         <h2>System logowania w PHP</h2>
                         <p class="item-intro text-muted"></p>
-                        <img class="img-responsive img-centered" src="img/portfolio/oop-preview.png" alt="podglad oop">
+                        <img class="img-responsive img-centered" src="img/portfolio/oop-preview.png" alt="OOP">
                         <p>System logowania PHP</p>
                         <p><strong></strong>Strona z użyciem następujących technologii: PHP, MySQL, Bootstrap</p>
                         <ul class="list-inline">
@@ -308,16 +274,12 @@
                   <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                       <div class="modal-body">
-                        <h2>Project Heading</h2>
-                        <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                        <img class="img-responsive img-centered" src="img/portfolio/portfolio2-preview.png" alt="">
-                        <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                        <p><strong>His at quem vituperata, an nam laboramus interesset.</strong> Nostro tractatos has et. Est nulla ceteros ei, laoreet alienum cum ei. Mei odio vulputate idsit ex enim sonet legere. Ignota audiam vel et, vix dolore suscipiantur ne sea soleat iisque eu.</p>
-                        <ul class="list-inline">
-                          <li>Date: December 2014</li>
-                          <li>Client: Ignota audiam vel</li>
-                          <li>Category: Web Design</li>
-                        </ul>
+                        <h2>Wordpress</h2>
+
+                        <img class="img-responsive img-centered" src="img/portfolio/wordpress-preview.png" alt="Wordpress">
+                        <p>Strona wykonana z użyciem CMS Wordpress oraz motywu Customizr</p>
+                        <p><a href ="/wordpress" target="_blank">Przejdź do strony opartej na Wordpressie</a></p>
+                        
                         <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Zamknij</button>
                       </div>
                     </div>
@@ -339,78 +301,11 @@
                     <div class="col-lg-8 col-lg-offset-2">
                       <div class="modal-body"> 
                         <!-- Project Details Go Here -->
-                        <h2>Project Name</h2>
-                        <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                        <img class="img-responsive img-centered" src="img/portfolio/portfolio3-preview.png" alt="">
-                        <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                        <p><strong>His at quem vituperata, an nam laboramus interesset.</strong> Nostro tractatos has et. Est nulla ceteros ei, laoreet alienum cum ei. Mei odio vulputate idsit ex enim sonet legere. Ignota audiam vel et, vix dolore suscipiantur ne sea soleat iisque eu.</p>
-                        <ul class="list-inline">
-                          <li>Date: December 2014</li>
-                          <li>Client: Ignota audiam vel</li>
-                          <li>Category: Web Design</li>
-                        </ul>
-                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Zamknij</button>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <!-- Portfolio Modal 4 -->
-            <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
-              <div class="modal-content">
-                <div class="close-modal" data-dismiss="modal">
-                  <div class="lr">
-                    <div class="rl"> </div>
-                  </div>
-                </div>
-                <div class="container">
-                  <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                      <div class="modal-body"> 
-                        <!-- Project Details Go Here -->
-                        <h2>Project Name</h2>
-                        <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                        <img class="img-responsive img-centered" src="img/portfolio/portfolio4-preview.png" alt="">
-                        <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                        <p><strong>His at quem vituperata, an nam laboramus interesset.</strong> Nostro tractatos has et. Est nulla ceteros ei, laoreet alienum cum ei. Mei odio vulputate idsit ex enim sonet legere. Ignota audiam vel et, vix dolore suscipiantur ne sea soleat iisque eu.</p>
-                        <ul class="list-inline">
-                          <li>Date: December 2014</li>
-                          <li>Client: Ignota audiam vel</li>
-                          <li>Category: Web Design</li>
-                        </ul>
-                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Zamknij</button>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <!-- Portfolio Modal 5 -->
-            <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
-              <div class="modal-content">
-                <div class="close-modal" data-dismiss="modal">
-                  <div class="lr">
-                    <div class="rl"> </div>
-                  </div>
-                </div>
-                <div class="container">
-                  <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                      <div class="modal-body"> 
-                        <!-- Project Details Go Here -->
-                        <h2>Project Name</h2>
-                        <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                        <img class="img-responsive img-centered" src="img/portfolio/portfolio5-preview.png" alt="">
-                        <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                        <p><strong>His at quem vituperata, an nam laboramus interesset.</strong> Nostro tractatos has et. Est nulla ceteros ei, laoreet alienum cum ei. Mei odio vulputate idsit ex enim sonet legere. Ignota audiam vel et, vix dolore suscipiantur ne sea soleat iisque eu.</p>
-                        <ul class="list-inline">
-                          <li>Date: December 2014</li>
-                          <li>Client: Ignota audiam vel</li>
-                          <li>Category: Web Design</li>
-                        </ul>
+                        <h2>Aplikacje webowe</h2>
+                     
+                        <img class="img-responsive img-centered" src="img/portfolio/webowe-preview.png" alt="Aplikacje webowe">
+                        <p>Na tej stronie znajdują się stworzone przeze mnie aplikacje wykonane z użyciem takich technologii jak jQuery, PHP, Bootstrap</p>
+                        
                         <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Zamknij</button>
                       </div>
                     </div>
